@@ -1,4 +1,3 @@
-# linhvu.github.io
 #Data Professional
 
 ### Work Experience
