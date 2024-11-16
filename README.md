@@ -2,7 +2,7 @@
 #Data Professional
 
 ### Work Experience
-Credit Risk Analytics & Modelling Expert @Techcombank
+Data Analyst @Optimizely
 - Project 1
 - Project 2
 
