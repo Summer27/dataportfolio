@@ -1,5 +1,3 @@
-#Data Professional
-
 ### Work Experience
 Data Analyst @Optimizely
 - Project 1
